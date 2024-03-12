@@ -1,6 +1,6 @@
 ## Tugas Praktikum 1 Pemrograman Visual
 
-Dalam kode di atas, saya mendesain sebuah toko merchandise konser Taylor Swift diwakili oleh kelas-kelas Merchandise dan Customer.
+Dalam kode tersebut, saya mendesain sebuah toko merchandise konser Taylor Swift yang diwakili oleh kelas Merchandise dan Customer.
 
 Kelas Merchandise digunakan untuk merepresentasikan setiap item yang tersedia untuk dibeli di toko merchandise. Setiap objek Merchandise memiliki dua properti utama: name (nama merchandise) dan price (harga merchandise). Konstruktor Merchandise digunakan untuk membuat objek Merchandise baru dengan memberikan nilai awal untuk properti name dan price. Metode toString() di-override untuk menghasilkan representasi string yang sesuai dari objek Merchandise, menampilkan nama dan harga barang.
 
